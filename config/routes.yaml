@@ -1,0 +1,12 @@
+
+#home:
+#  path: /
+#  controller: App\Controller\HomeController::index
+
+#property.index:
+#  path: /biens
+#  controller: App\Controller\PropertyController::index
+
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
